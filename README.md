@@ -5,10 +5,11 @@
 2)Введите команду apt update и apt upgrade
 3)Введите команду pkg update и pkg upgrate
 4)Введите команду pkg install git
-5)Введите команду git clone https://github.com/DarkWebChannel/DarkBomber.git
-6)Введите команду cd DarkBomber
-7)Введите команду pip install -r requirements.txt
-8)Введите команду python main.py
+5)Введите команду pkg install python
+6)Введите команду git clone https://github.com/DarkWebChannel/DarkBomber.git
+7)Введите команду cd DarkBomber
+8)Введите команду pip install -r requirements.txt
+9)Введите команду python main.py
 Поздравляю вы его скачали!
 
 
